@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/layout_fragment_github.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/layout/fragment_github.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable_ic_add.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_profil.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-mdpi/ic_profil.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_profil.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_profil.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/layout_fragment_profil.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/layout/fragment_profil.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_house.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-hdpi/ic_house.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_house.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_house.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_house.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-mdpi/ic_house.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_house.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_house.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_profil.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-ldpi/ic_profil.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_house.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-ldpi/ic_house.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_profil.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-hdpi/ic_profil.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_profil.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_profil.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/layout_fragment_my_friend.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/res/layout/fragment_my_friend.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_profil.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_profil.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_house.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_house.xml"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_house.png.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_house.png"
+    },
+    {
+        "merged": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_profil.xml.flat",
+        "source": "/home/krypton/AndroidStudioProjects/DataTeman/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_profil.xml"
+    }
+]

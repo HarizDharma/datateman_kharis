@@ -1,0 +1,2 @@
+com/example/datateman/BuildConfig.java
+ com.example.datateman.BuildConfig
